@@ -51,7 +51,7 @@ Alternatively, you can use your personal machine to connect to the databases wit
 
 Using CEDS is recommended, but if you wish to use your local machine, there are two things you'll need to do differently:
 
-1) You'll need a secure connection. Use VPN for a secure connection (instructions in Overview). You'll connect with the Cisco AnyConnect App using the UVA More Secure Network.
+1) You'll need a secure connection. Use [VPN](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0) for a secure connection. You'll connect with the Cisco AnyConnect App using the UVA More Secure Network.
 
 2) You'll need to install MySQL Workbench on your machine. You can download it from this link.
 
