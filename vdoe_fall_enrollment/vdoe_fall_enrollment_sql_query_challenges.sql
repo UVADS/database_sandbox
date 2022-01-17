@@ -1,0 +1,9 @@
+-- 1) Get a count of the number of records in each of the tables
+-- 2) Get a count of number of schools where division_name is Albemarle County
+-- 3) Compute the total number of students enrolled in schools where division_nm is Albemarle County
+-- 4) Compute the total number of students enrolled across all schools
+-- 5) Compute the total number of students enrolled aggregated by division_nm. 
+--    Rename total number of students as total_count
+--    Show division_nm, total_count. Sort descending by total_count.
+-- 6) Come up with your own queries for collaboration! Submit the question, SQL code, and solution to apt4c@virginia.edu
+--    Frame the question so that the result is small, such as returning a count or a small number of records.
