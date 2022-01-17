@@ -13,5 +13,5 @@ Folders contain files for:
 
 - Fork this repo!
 - Try the query challenge questions before looking at the solutions
-- Here are instructions for connecting to a sample MySQL database through the UVA SDS compute resource CEDS
-- If you don't have access to CEDS, you can send a request to your Program Director
+- Here are [instructions](https://github.com/UVADS/database_sandbox/blob/main/connect_to_mysql_db.md) for connecting to a sample MySQL database through the UVA SDS compute resource CEDS
+- If you don't have access to CEDS/database sandbox, you can send a request to your Program Director
