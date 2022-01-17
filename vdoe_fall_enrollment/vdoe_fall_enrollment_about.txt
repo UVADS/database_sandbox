@@ -1,0 +1,7 @@
+The Virginia Department of Education (VDOE) annually collects statistics on the number of students enrolled in public school on September 30. This report, known as Fall Membership, is submitted by each school in Virginia that officially enrolls students (i.e. student records are maintained on a Virginia teacher's register or automated system). Data are collected at the student-level and are limited to one active record per student within the state.
+
+VDOE
+https://www.doe.virginia.gov/
+
+Data source
+https://p1pe.doe.virginia.gov/apex/f?p=180:1:15453945234452:::::
