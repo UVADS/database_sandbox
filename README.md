@@ -15,3 +15,8 @@ Folders contain files for:
 - Try the query challenge questions before looking at the solutions
 - Here are [instructions](https://github.com/UVADS/database_sandbox/blob/main/connect_to_mysql_db.md) for connecting to a sample MySQL database through the UVA SDS compute resource [CEDS](https://rdweb.wvd.microsoft.com/arm/webclient/index.html)
 - If you don't have access to CEDS/database sandbox, you can send a request to your Program Director
+
+## Brief Notes on the Databases
+
+- `stock_data_test` very small relational db (2 tables) containing stock prices. source: Yahoo! Finance
+- `vdoe_fall_enrollment` relational db (4 tables) containing number of students enrolled in each Virginia public school. source: VDOE
