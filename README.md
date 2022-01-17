@@ -23,4 +23,4 @@ Folders contain files for:
 
 ## Recommended Reading
 
-- [Beginning Database Design Solutions](https://www.amazon.com/Beginning-Database-Design-Solutions-Stephens/dp/0470385499/ref=asc_df_0470385499/?tag=hyprod-20&linkCode=df0&hvadid=312114711253&hvpos=&hvnetw=g&hvrand=1679045027820716934&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010487&hvtargid=pla-525177332388&psc=1). Will be used in Data Engineering course.
+- [Beginning Database Design Solutions](https://www.amazon.com/Beginning-Database-Design-Solutions-Stephens/dp/0470385499/ref=asc_df_0470385499/?tag=hyprod-20&linkCode=df0&hvadid=312114711253&hvpos=&hvnetw=g&hvrand=1679045027820716934&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010487&hvtargid=pla-525177332388&psc=1). Author: Rod Stephens. Will be used in Data Engineering course.
