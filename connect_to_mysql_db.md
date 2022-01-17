@@ -7,7 +7,7 @@ Database management systems and databases are being added to a server so that:
 
 Once you are granted access to the database sandbox, you should be able to use these resources.
 
-You can use CEDS or your own machine. CEDS is the preferred approach.
+You can use [CEDS](https://rdweb.wvd.microsoft.com/arm/webclient/index.html) or your own machine. CEDS is the preferred approach.
 
 1) Log in to CEDS using your UVA compute credentials
 
