@@ -25,9 +25,11 @@ provide these credentials:
                      if prompted for password, leave it blank and then enter a new one.
 ```
 
-4) Test the connection
+4) Select 'OK'
+   Note, selecting 'Test Connection' may return an error that can be ignored
 
-5) When it passes, create the connection
+5) Click on the connection to launch it
+   Note, upon first login, leave the 'old password' field empty, and enter your new password
 
 6) Click on the connection to launch it
 
